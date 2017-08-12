@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/_scene/le_quiz.unity
+  isLoaded: 1
+  isActive: 1
